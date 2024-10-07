@@ -1,2 +1,2 @@
 # Projetos
-Este repositório contém arquivos de atividades desenvolvidos por mim na faculdade.
+Este repositório contém arquivos de projetos desenvolvidos por mim na faculdade.
